@@ -1,0 +1,32 @@
+.pull{
+    margin-top: 8%;
+}
+
+.info{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 400;
+    font-size: medium;
+}
+
+.pullgambar{
+width: 55vw;
+margin-right: 0px;
+margin-left: 38%;
+}
+
+.mft{
+    font-family: 'Times New Roman';
+    font-weight: 400;
+    font-size: large;
+    text-align: center;
+    margin-top: -1%;
+}
+
+.cara{
+    font-family: 'Times New Roman';
+    font-weight: 400;
+    font-size: large;
+    margin-top: -1%;
+    text-align: center;
+}

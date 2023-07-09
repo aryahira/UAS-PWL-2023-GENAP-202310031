@@ -1,0 +1,20 @@
+.menu-item {
+  padding: 30px;
+  margin: 5px 10px;
+  user-select: none;
+  cursor: pointer;
+  border: none;
+}
+
+.scroll-menu-arrow {
+  padding: 20px;
+  cursor: pointer;
+}
+
+.bi{
+  margin-left: 2%;
+  height: 2%;
+  width: 4%;
+  color: none;
+  background-color: none;
+}
